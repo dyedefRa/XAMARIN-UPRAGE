@@ -1,0 +1,17 @@
+﻿1- alert =>
+        Toast.MakeText(this, txtUsername.Text,ToastLength.Short).Show();
+
+2- Farklı sayfaya object atma =>
+     var intent = new Intent(this, typeof(LoginActivity));
+            Student student = new Student()
+            {
+                Username = txtUsername.Text,
+                Password = txtPassword.Text
+            };
+            intent.PutExtra("relatedStudent",JsonConvert.SerializeObject(student));
+            StartActivity(intent);
+
+---- ve onu alma
+ string serializedData = Intent.GetStringExtra("relatedStudent");
+
+            Student selectedPerson = JsonConvert.DeserializeObject<Student>(serializedData);
