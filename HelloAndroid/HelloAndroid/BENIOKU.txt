@@ -15,3 +15,16 @@
  string serializedData = Intent.GetStringExtra("relatedStudent");
 
             Student selectedPerson = JsonConvert.DeserializeObject<Student>(serializedData);
+
+ -- YADA DIREK SAYFAYAI ACMAK ICIN =>
+                        StartActivity(typeof(InsertActivity));
+
+3-Extension
+  public static string ToJson(this object item)
+        {
+            return JsonConvert.SerializeObject(item);
+        }
+        public static T JsonToData<T>(this string item)
+        {
+            return JsonConvert.DeserializeObject<T>(item);
+        }

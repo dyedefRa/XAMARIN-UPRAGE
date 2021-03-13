@@ -61,7 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extension\Helper.cs" />
-    <Compile Include="LoginActivity.cs" />
+    <Compile Include="InsertActivity.cs" />
+    <Compile Include="ListActivity.cs" />
+    <Compile Include="Logined.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -111,7 +113,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BENIOKU.txt" />
-    <AndroidResource Include="Resources\layout\LoginPage.xml">
+    <AndroidResource Include="Resources\layout\InsertPage.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ListPage.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Logined.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

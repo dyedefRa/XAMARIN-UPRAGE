@@ -6,7 +6,7 @@ using Android.Widget;
 using AndroidX.AppCompat.App;
 using HelloAndroid.Extension;
 using HelloAndroid.Models;
-
+using System.Collections.Generic;
 
 namespace HelloAndroid
 {
@@ -16,6 +16,9 @@ namespace HelloAndroid
         EditText txtUsername;
         EditText txtPassword;
         Button btnLogin;
+
+        public static List<Student> students = new List<Student>();
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
