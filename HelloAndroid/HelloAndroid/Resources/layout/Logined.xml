@@ -12,9 +12,14 @@
         android:minHeight="25px"
         android:id="@+id/txtUsern" />
     <Button
-        android:text="Button"
+        android:text="Inserter"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnInsertt" />
+    <Button
+        android:text="List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLister" />
 
 </LinearLayout>

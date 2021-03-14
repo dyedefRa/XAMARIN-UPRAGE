@@ -8,7 +8,6 @@ D:\PROJECTS\HelloAndroid\HelloAndroid\bin\Debug\com.companyname.helloandroid-Sig
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\build.props
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\adb.props
-D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\HelloAndroid.csprojAssemblyReference.cache
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res.flag
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\lp\38\jl\files.cache
@@ -56,7 +55,6 @@ D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\mipmap-xxxhdpi\ic_launch
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\mipmap-xxxhdpi\ic_launcher_foreground.png
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\mipmap-xxxhdpi\ic_launcher_round.png
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\layout\insertpage.xml
-D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\layout\listpage.xml
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\layout\logined.xml
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\uploadflags.txt
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\resolvedassemblies.hash
@@ -227,7 +225,6 @@ D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc64396a3fe5f81
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\InsertActivity.java
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\ListActivity.java
-D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\LoginActivity.java
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\MainActivity.java
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
@@ -329,3 +326,4 @@ D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_ConvertResourcesCases
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\Loggin.java

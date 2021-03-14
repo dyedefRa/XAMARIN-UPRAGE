@@ -29456,8 +29456,8 @@
 	.section	.rodata.java_type_name.4909,"aMS",%progbits,1
 	.type	.L.java_type_name.4909, %object
 .L.java_type_name.4909:
-	.asciz	"crc6490bfc84a0f5dff7a/LoginActivity"
-	.size	.L.java_type_name.4909, 36
+	.asciz	"crc6490bfc84a0f5dff7a/Loggin"
+	.size	.L.java_type_name.4909, 29
 
 	.section	.rodata.java_type_name.4910,"aMS",%progbits,1
 	.type	.L.java_type_name.4910, %object
@@ -69767,8 +69767,8 @@
 	.section	.rodata.managed_type_name.5226,"aMS",%progbits,1
 	.type	.L.managed_type_name.5226, %object
 .L.managed_type_name.5226:
-	.asciz	"HelloAndroid.LoginActivity, HelloAndroid"
-	.size	.L.managed_type_name.5226, 41
+	.asciz	"HelloAndroid.Loggin, HelloAndroid"
+	.size	.L.managed_type_name.5226, 34
 	.section	.rodata.managed_type_name.5227,"aMS",%progbits,1
 	.type	.L.managed_type_name.5227, %object
 .L.managed_type_name.5227:

@@ -1,7 +1,7 @@
 package crc6490bfc84a0f5dff7a;
 
 
-public class LoginActivity
+public class Loggin
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class LoginActivity
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("HelloAndroid.LoginActivity, HelloAndroid", LoginActivity.class, __md_methods);
+		mono.android.Runtime.register ("HelloAndroid.Loggin, HelloAndroid", Loggin.class, __md_methods);
 	}
 
 
-	public LoginActivity ()
+	public Loggin ()
 	{
 		super ();
-		if (getClass () == LoginActivity.class)
-			mono.android.TypeManager.Activate ("HelloAndroid.LoginActivity, HelloAndroid", "", this, new java.lang.Object[] {  });
+		if (getClass () == Loggin.class)
+			mono.android.TypeManager.Activate ("HelloAndroid.Loggin, HelloAndroid", "", this, new java.lang.Object[] {  });
 	}
 
 

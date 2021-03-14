@@ -34,22 +34,22 @@ namespace HelloAndroid
 
         private void BtnLogin_Click(object sender, System.EventArgs e)
         {
-            //Toast.MakeText(this, txtUsername.Text, ToastLength.Short).Show();
+            Toast.MakeText(this, txtUsername.Text, ToastLength.Short).Show();
 
             //StartActivity(typeof(LoginActivity));
 
-            var intent = new Intent(this, typeof(LoginActivity));
+            var intent = new Intent(this, typeof(Loggin));
             Student student = new Student()
             {
                 Username = txtUsername.Text,
                 Password = txtPassword.Text
             };
-            //intent.PutExtra("relatedStudent",JsonConvert.SerializeObject(student));
+            //intent.PutExtra("relatedStudent",JsonConvert.SerializeObject(student));x
             intent.PutExtra("relatedStudent", student.ToJson());
 
             StartActivity(intent);
 
-           
+
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
