@@ -327,3 +327,6 @@ D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_GenerateJavaStubs.sta
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\Loggin.java
+D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\HelloAndroid.csprojAssemblyReference.cache
+D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\res\layout\listpage.xml
+D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\android\src\crc6490bfc84a0f5dff7a\ListPageActivity.java

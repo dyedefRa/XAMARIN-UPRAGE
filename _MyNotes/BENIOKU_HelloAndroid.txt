@@ -1,0 +1,30 @@
+﻿1- alert =>
+        Toast.MakeText(this, txtUsername.Text,ToastLength.Short).Show();
+
+2- Farklı sayfaya object atma =>
+     var intent = new Intent(this, typeof(LoginActivity));
+            Student student = new Student()
+            {
+                Username = txtUsername.Text,
+                Password = txtPassword.Text
+            };
+            intent.PutExtra("relatedStudent",JsonConvert.SerializeObject(student));
+            StartActivity(intent);
+
+---- ve onu alma
+ string serializedData = Intent.GetStringExtra("relatedStudent");
+
+            Student selectedPerson = JsonConvert.DeserializeObject<Student>(serializedData);
+
+ -- YADA DIREK SAYFAYAI ACMAK ICIN =>
+                        StartActivity(typeof(InsertActivity));
+
+3-Extension
+  public static string ToJson(this object item)
+        {
+            return JsonConvert.SerializeObject(item);
+        }
+        public static T JsonToData<T>(this string item)
+        {
+            return JsonConvert.DeserializeObject<T>(item);
+        }

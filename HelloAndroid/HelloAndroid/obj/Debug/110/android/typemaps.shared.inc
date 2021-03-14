@@ -29450,8 +29450,8 @@
 	.section	.rodata.java_type_name.4908,"aMS",@progbits,1
 	.type	.L.java_type_name.4908, @object
 .L.java_type_name.4908:
-	.asciz	"crc6490bfc84a0f5dff7a/ListActivity"
-	.size	.L.java_type_name.4908, 35
+	.asciz	"crc6490bfc84a0f5dff7a/ListPageActivity"
+	.size	.L.java_type_name.4908, 39
 
 	.section	.rodata.java_type_name.4909,"aMS",@progbits,1
 	.type	.L.java_type_name.4909, @object
@@ -69762,8 +69762,8 @@
 	.section	.rodata.managed_type_name.5225,"aMS",@progbits,1
 	.type	.L.managed_type_name.5225, @object
 .L.managed_type_name.5225:
-	.asciz	"HelloAndroid.ListActivity, HelloAndroid"
-	.size	.L.managed_type_name.5225, 40
+	.asciz	"HelloAndroid.ListPageActivity, HelloAndroid"
+	.size	.L.managed_type_name.5225, 44
 	.section	.rodata.managed_type_name.5226,"aMS",@progbits,1
 	.type	.L.managed_type_name.5226, @object
 .L.managed_type_name.5226:

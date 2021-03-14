@@ -42,7 +42,7 @@ namespace HelloAndroid
 
         private void BtnList_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            StartActivity(typeof(ListPageActivity));
         }
 
         private void BtnNavigateInsert_Click(object sender, System.EventArgs e)

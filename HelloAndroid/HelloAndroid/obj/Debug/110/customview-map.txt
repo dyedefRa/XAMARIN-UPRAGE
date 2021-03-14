@@ -19,8 +19,10 @@ foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 item;obj\Debug\110\res\values\styles.xml
 LinearLayout;obj\Debug\110\res\layout\activity_main.xml
 LinearLayout;obj\Debug\110\res\layout\insertpage.xml
+LinearLayout;obj\Debug\110\res\layout\listpage.xml
 LinearLayout;obj\Debug\110\res\layout\log.xml
 LinearLayout;obj\Debug\110\res\layout\logined.xml
+ListView;obj\Debug\110\res\layout\listpage.xml
 paths;D:\PROJECTS\HelloAndroid\HelloAndroid\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;obj\Debug\110\res\values\colors.xml
 resources;obj\Debug\110\res\values\ic_launcher_background.xml
