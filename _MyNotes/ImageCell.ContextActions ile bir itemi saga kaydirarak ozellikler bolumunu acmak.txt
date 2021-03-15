@@ -1,0 +1,4 @@
+        <ImageCell.ContextActions>
+                                <MenuItem Text="Güncelle"></MenuItem>
+                                <MenuItem Text="Sil"></MenuItem>
+                            </ImageCell.ContextActions>

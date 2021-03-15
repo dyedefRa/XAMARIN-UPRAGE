@@ -1,0 +1,22 @@
+----ILK DEFA EKLE-----
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin master
+
+ 
+
+
+clear€
+
+exit€
+------GUNCELLE-------
+git status
+git add .
+git remote €
+git commit -m 'Second'
+git push gits master€
+
+

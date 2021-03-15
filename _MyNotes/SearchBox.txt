@@ -1,0 +1,17 @@
+XAML------------
+<SearchBar x:Name="mySearchBar" Placeholder="Ara" TextColor="#000"
+                       TextChanged="SearchBar_TextChanged"></SearchBar>
+
+XAML.Cs------------
+    private void SearchBar_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (string.IsNullOrEmpty(e.NewTextValue) || e.NewTextValue == "")
+            {
+                lstMVA.ItemsSource = MVAFactory.MVAData;
+                return;
+            }
+
+            var newList = MVAFactory.MVAData.Where(x => x.Title.Contains(e.NewTextValue) || x.Description.Contains(e.NewTextValue)).ToList();
+            lstMVA.ItemsSource = newList;
+     
+        }

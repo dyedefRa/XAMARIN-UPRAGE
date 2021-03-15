@@ -1,0 +1,17 @@
+
+------------
+€ Refreshing="lstMVA_Refreshing" Eventi bu.
+€ IsPullToRefreshEnabled="True" ile bu özelligi açarsın.
+
+
+---xaml---- 
+ <ListView x:Name="lstMVA" ItemSelected="lstMVA_ItemSelected" IsPullToRefreshEnabled="True"
+                      Refreshing="lstMVA_Refreshing">
+
+---xaml.cs----
+     private void lstMVA_Refreshing(object sender, System.EventArgs e)
+        {
+            DisplayAlert("Refleshing Metodu Çalıştı", "Çalıştı", "Tamam");
+            lstMVA.IsRefreshing = false;
+        }
+
