@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmWy23dbV6OWGQPz1zgZr04O0UIbxEoRnEc1EKbUBDqZ8ImYpyeH5/KZt6Mf8Ugq4EZ+A7XTLzWE0y1lNPea/A==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\UsingSocialPlatform\\UsingSocialPlatform\\UsingSocialPlatform.iOS\\UsingSocialPlatform.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

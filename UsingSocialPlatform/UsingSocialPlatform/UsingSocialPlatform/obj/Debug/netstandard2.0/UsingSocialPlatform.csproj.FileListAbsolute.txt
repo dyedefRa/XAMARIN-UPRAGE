@@ -1,0 +1,15 @@
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\bin\Debug\netstandard2.0\UsingSocialPlatform.deps.json
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\bin\Debug\netstandard2.0\UsingSocialPlatform.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\bin\Debug\netstandard2.0\ref\UsingSocialPlatform.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\bin\Debug\netstandard2.0\UsingSocialPlatform.pdb
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\ExtensionViews\PluginShare.xaml.g.cs
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.AssemblyInfoInputs.cache
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.AssemblyInfo.cs
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.csproj.CoreCompileInputs.cache
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\ref\UsingSocialPlatform.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.pdb
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.csprojAssemblyReference.cache
