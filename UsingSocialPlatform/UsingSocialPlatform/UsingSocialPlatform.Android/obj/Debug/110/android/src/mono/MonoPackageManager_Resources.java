@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"UsingSocialPlatform.Android.dll",
 		"FormsViewGroup.dll",
 		"Plugin.CurrentActivity.dll",
+		"Plugin.Media.dll",
 		"Plugin.Share.Abstractions.dll",
 		"Plugin.Share.dll",
 		"UsingSocialPlatform.dll",

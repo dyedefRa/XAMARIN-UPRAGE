@@ -20,7 +20,7 @@ namespace UsingSocialPlatform.ExtensionViews
             string message = txtMessage.Text;
             string url = txtUrl.Text;
             if (string.IsNullOrEmpty(url))
-                url = "https://www.google.com";
+                url = "https://www.youtube.com/";
 
             ShareMessage shareMessage = new ShareMessage()
             {
@@ -29,7 +29,14 @@ namespace UsingSocialPlatform.ExtensionViews
                 Url = url
             };
             //CrossShare.Current.Share(shareMessage);
-            CrossShare.Current.Share(shareMessage);
+            CrossShare.Current.OpenBrowser(url, new BrowserOptions()
+            {
+                ChromeShowTitle = true,
+                ChromeToolbarColor = new ShareColor(1,2,3,4),
+                UseSafariReaderMode=true,
+                UseSafariWebViewController=true
+
+            });
 
         }
     }

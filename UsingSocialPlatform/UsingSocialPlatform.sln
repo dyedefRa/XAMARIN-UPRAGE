@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSocialPlatform.Android
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSocialPlatform.iOS", "UsingSocialPlatform\UsingSocialPlatform.iOS\UsingSocialPlatform.iOS.csproj", "{C54F7512-D408-4544-8F27-9A9D02474906}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSocialPlatform", "UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.csproj", "{3B5CBBD4-4BDB-4A63-97D8-179ACD67FBD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingSocialPlatform", "UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.csproj", "{3B5CBBD4-4BDB-4A63-97D8-179ACD67FBD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68FE79C8-C2B1-4DB2-8C0E-38915FB9F1F4}"
+	ProjectSection(SolutionItems) = preProject
+		BENIOKU.txt = BENIOKU.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

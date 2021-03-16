@@ -1,0 +1,6 @@
+1- Plugin.Share ile sosyal medyada paylaþma ve bir çok özelliði kullanabilirsin.
+
+
+2- Android > Properties > Manifest 
+Allow Camera 
+Allow Write External Storage

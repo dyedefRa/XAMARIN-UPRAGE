@@ -1,5 +1,10 @@
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\UsingSocialPlatform.iOS.exe
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\UsingSocialPlatform.iOS.pdb
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Share.Abstractions.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Share.Abstractions.pdb
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Share.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Media.dll
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Media.pdb
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
@@ -56,6 +61,3 @@ D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\obj\
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\obj\iPhone\Debug\UsingSocialPlatform.iOS.csproj.CopyComplete
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\obj\iPhone\Debug\UsingSocialPlatform.iOS.exe
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\obj\iPhone\Debug\UsingSocialPlatform.iOS.pdb
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Share.Abstractions.dll
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Share.Abstractions.pdb
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.iOS\bin\iPhone\Debug\Plugin.Share.dll

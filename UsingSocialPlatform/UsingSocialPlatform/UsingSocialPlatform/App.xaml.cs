@@ -11,7 +11,7 @@ namespace UsingSocialPlatform
         {
             InitializeComponent();
 
-            MainPage = new PluginShare();
+            MainPage = new PluginMedia();
         }
 
         protected override void OnStart()
