@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ob53BAoRmOCgQhPSr6o09lTgQ+YwMNgdw8fSvLId7vSEJ4yvSzOTl4Qp5EHd+SqLYl1iD9mfjxHYPCkXe8UQBA==",
+  "dgSpecHash": "gYImihnAcxBhP7l4FxCEKMGaJD8wZaReNP2d8el2ytd8jPZsyYkD2t1KoFN4f3UitpmCRopG1bBm9TTrL2woDw==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\UsingSocialPlatform\\UsingSocialPlatform\\UsingSocialPlatform\\UsingSocialPlatform.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xam.plugins.notifier\\3.0.1\\xam.plugins.notifier.3.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

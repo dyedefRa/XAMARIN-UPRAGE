@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PSp/zgOUJtZ41+1HT7ii6eeFmZRYmHpOcPBDc+gDpUST/j8fvOWFfeGLw+hZ1yszlAlQWoghLIAQXItnGilQLg==",
+  "dgSpecHash": "GpjDqs4uBmgJfh6dkgVg9v6M2F7mJf0q1rACYFQW4NdjzT9CunzhteWOy3Wvj/jaYTfKg1Cbv6OLWGhIz1zf1Q==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\UsingSocialPlatform\\UsingSocialPlatform\\UsingSocialPlatform.Android\\UsingSocialPlatform.Android.csproj",
   "expectedPackageFiles": [
@@ -8,9 +8,11 @@
     "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xam.plugins.notifier\\3.0.1\\xam.plugins.notifier.3.0.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.annotations\\25.4.0.2\\xamarin.android.support.annotations.25.4.0.2.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.compat\\25.4.0.2\\xamarin.android.support.compat.25.4.0.2.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.customtabs\\25.4.0.2\\xamarin.android.support.customtabs.25.4.0.2.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.v4\\23.0.1.3\\xamarin.android.support.v4.23.0.1.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

@@ -15,7 +15,7 @@ namespace UsingSocialPlatform.ExtensionViews
             InitializeComponent();
         }
 
-        private  void btnTakePhoto_Clicked(object sender, System.EventArgs e)
+        private async void btnTakePhoto_Clicked(object sender, System.EventArgs e)
         {
             if (!CrossMedia.Current.IsCameraAvailable ||
                 !CrossMedia.Current.IsTakePhotoSupported)
@@ -24,9 +24,10 @@ namespace UsingSocialPlatform.ExtensionViews
                 return;
             }
 
-            var file =  CrossMedia.Current.TakePhotoAsync(new StoreCameraMediaOptions()
+            var file = await CrossMedia.Current.TakePhotoAsync(new StoreCameraMediaOptions()
             {
-                Directory = "Sample",
+
+                Directory = "D://Sample",
                 Name = "photo.jpg"
             });
             if (file == null)
@@ -34,7 +35,7 @@ namespace UsingSocialPlatform.ExtensionViews
 
             imgShown.Source = ImageSource.FromStream(() =>
             {
-                var stream = file.Result.GetStream();
+                var stream = file.GetStream();
                 file.Dispose();
                 return stream;
             });
@@ -60,19 +61,42 @@ namespace UsingSocialPlatform.ExtensionViews
 
         }
 
-        private void btnTakeVideo_Clicked(object sender, System.EventArgs e)
+        private async void btnTakeVideo_Clicked(object sender, System.EventArgs e)
         {
-            if (!CrossMedia.Current.IsCameraAvailable||
+            if (!CrossMedia.Current.IsCameraAvailable ||
                 !CrossMedia.Current.IsTakeVideoSupported)
             {
                 DisplayAlert("Hata", "Video çekilemedi!", "Tamam");
                 return;
             }
+
+            var file = await CrossMedia.Current.TakeVideoAsync(new StoreVideoOptions()
+            {
+                Quality = VideoQuality.High,
+                Directory = "SampleVideo",
+                Name = "video.mp4"
+            });
+            if (file == null)
+                return;
+
+            file.Dispose();
+
         }
 
-        private void btnPickVideo_Clicked(object sender, System.EventArgs e)
+        private async void btnPickVideo_Clicked(object sender, System.EventArgs e)
         {
+            if (!CrossMedia.Current.IsCameraAvailable ||
+                !CrossMedia.Current.IsPickVideoSupported)
+            {
+                DisplayAlert("Hata", "Video seçilemedi!", "Hata");
+                return;
+            }
 
+            var file = await CrossMedia.Current.PickVideoAsync();
+
+            if (file == null)
+                return;
+            file.Dispose();
         }
     }
 }

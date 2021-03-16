@@ -14,3 +14,4 @@ D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debu
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\ref\UsingSocialPlatform.dll
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.pdb
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\UsingSocialPlatform.csprojAssemblyReference.cache
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform\obj\Debug\netstandard2.0\ExtensionViews\PluginPushNotification.xaml.g.cs

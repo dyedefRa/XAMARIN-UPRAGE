@@ -1,6 +1,13 @@
 1- Plugin.Share ile sosyal medyada paylaþma ve bir çok özelliði kullanabilirsin.
 
 
-2- Android > Properties > Manifest 
+2-Xam.Plugin.Media ile => Resim,vide çekme ve seçme yapabiliyoruz
+Android > Properties > Manifest 
 Allow Camera 
 Allow Write External Storage
+
+3- Xam.Plugin.Notifier ile bildirim vermek *** süper
+=> PluginPushNotification.xaml da var.
+Android icon için =>
+	MainActivity>     
+	LocalNotificationsImplementation.NotificationIconId = Resource.Drawable.notification_template_icon_bg;
