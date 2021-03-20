@@ -1,5 +1,8 @@
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\FacebookLogin.iOS.exe.config
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\FacebookLogin.iOS.exe
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\FacebookLogin.iOS.pdb
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\System.Net.Http.Extensions.dll
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\System.Net.Http.Primitives.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
@@ -46,6 +49,7 @@ D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\zh-Ha
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\FacebookLogin.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\FacebookLogin.pdb
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\FacebookLogin.dll.config
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
@@ -53,6 +57,7 @@ D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\corem
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\optimized\
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.csprojAssemblyReference.cache
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.exe.config
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.csproj.CoreCompileInputs.cache
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.csproj.CopyComplete
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.exe

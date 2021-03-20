@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AXpU1DDaZCyzhMucPGlNcd9yOi52fjKtJsLXkFojVokR68jUIiVN4PbS0vyYIcU4UTejGhzM9AuHpuW/bynRpw==",
+  "dgSpecHash": "zy0nelCTaouH8/ZqzBOTHZrZDAIOJi8s5uQtH3jnHcS0och2mJcHO8d0vUjq9Jb1KZWaIXoZqkxiH+DL5rRQNg==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\FacebookLogin\\FacebookLogin\\FacebookLogin\\FacebookLogin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl\\1.1.9\\microsoft.bcl.1.1.9.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl.build\\1.0.21\\microsoft.bcl.build.1.0.21.nupkg.sha512",
-    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.net.http\\2.2.22\\microsoft.net.http.2.2.22.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
@@ -19,7 +19,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Bcl 1.1.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.Bcl 1.1.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -29,7 +29,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Net.Http 2.2.22' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.Net.Http 2.2.29' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Net.Http",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

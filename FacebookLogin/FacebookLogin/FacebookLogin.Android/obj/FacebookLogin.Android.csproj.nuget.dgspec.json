@@ -48,7 +48,7 @@
             },
             "Microsoft.Net.Http": {
               "target": "Package",
-              "version": "[2.2.22, )"
+              "version": "[2.2.29, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -112,7 +112,7 @@
             },
             "Microsoft.Net.Http": {
               "target": "Package",
-              "version": "[2.2.22, )"
+              "version": "[2.2.29, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

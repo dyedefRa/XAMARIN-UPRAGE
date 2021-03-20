@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5buZm7Q6VjVbB8w+vVLowl9pO8eufF/r12ZjuN36OkznX15q1Rz1ORU2++Oz9NXYRQmL0wY5A77gRFiVXMlZWA==",
+  "dgSpecHash": "XFMAzaaBDunROr3bQpn0fdShnoRSZBYcw0golBYEhSNvVHPsXJ831JLOD/lDJxyy2jPTcdkxCZpZhp5umwffug==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\FacebookLogin\\FacebookLogin\\FacebookLogin.iOS\\FacebookLogin.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl\\1.1.9\\microsoft.bcl.1.1.9.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl.build\\1.0.21\\microsoft.bcl.build.1.0.21.nupkg.sha512",
-    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.net.http\\2.2.22\\microsoft.net.http.2.2.22.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
