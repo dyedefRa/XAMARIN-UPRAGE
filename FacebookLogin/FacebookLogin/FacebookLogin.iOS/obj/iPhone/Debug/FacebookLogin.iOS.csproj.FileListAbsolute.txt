@@ -62,3 +62,4 @@ D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\Faceb
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.csproj.CopyComplete
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.exe
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\obj\iPhone\Debug\FacebookLogin.iOS.pdb
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin.iOS\bin\iPhone\Debug\ModernHttpClient.dll

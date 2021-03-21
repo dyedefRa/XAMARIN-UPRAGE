@@ -4,9 +4,7 @@
              x:Class="FacebookLogin.Views.FacebookPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button x:Name="btnFB" Clicked="btnFB_Clicked" Text="Facebook Login"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

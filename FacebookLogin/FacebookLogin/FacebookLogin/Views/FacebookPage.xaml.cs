@@ -22,21 +22,7 @@ namespace FacebookLogin.Views
         public FacebookPage()
         {
             InitializeComponent();
-            this.BackgroundColor = Color.White;
-
-            string apiRequest = "https://www.facebook.com/dialog/oauth?client_id="
-               + FacebookClientId
-               + "&display=popup&response_type=token&redirect_uri="
-               + FacebookStatic;
-
-            var webView = new WebView
-            {
-                Source = apiRequest,
-                HeightRequest = 1
-            };
-
-            webView.Navigated += WebView_Navigated;
-            Content = webView;
+            this.BackgroundColor = Color.White;       
         }
 
         private async void WebView_Navigated(object sender, WebNavigatedEventArgs e)
@@ -98,6 +84,23 @@ namespace FacebookLogin.Views
                 }
             };
             Content = layout;
+        }
+
+        private void btnFB_Clicked(object sender, EventArgs e)
+        {
+            string apiRequest = "https://www.facebook.com/dialog/oauth?client_id="
+              + FacebookClientId
+              + "&display=popup&response_type=token&redirect_uri="
+              + FacebookStatic;
+
+            var webView = new WebView
+            {
+                Source = apiRequest,
+                HeightRequest = 1
+            };
+
+            webView.Navigated += WebView_Navigated;
+            Content = webView;
         }
     }
 }

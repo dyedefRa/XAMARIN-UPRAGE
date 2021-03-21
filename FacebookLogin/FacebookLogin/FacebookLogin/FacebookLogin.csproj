@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -19,7 +19,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="LinqToTwitter.xamarin">
+      <HintPath>bin\Debug\netstandard2.0\LinqToTwitter.xamarin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\FacebookPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\InstagramPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

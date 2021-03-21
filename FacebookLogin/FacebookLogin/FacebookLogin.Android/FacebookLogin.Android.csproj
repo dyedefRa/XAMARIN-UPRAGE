@@ -60,6 +60,9 @@
     <PackageReference Include="Microsoft.Net.Http">
       <Version>2.2.29</Version>
     </PackageReference>
+    <PackageReference Include="modernhttpclient">
+      <Version>2.4.2</Version>
+    </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>12.0.3</Version>
     </PackageReference>
@@ -102,4 +105,9 @@
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties XamarinHotReloadDebuggerTimeoutExceptionFacebookLoginAndroidHideInfoBar="True" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>

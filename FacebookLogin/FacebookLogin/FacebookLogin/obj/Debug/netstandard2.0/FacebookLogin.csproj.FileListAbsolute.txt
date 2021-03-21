@@ -4,14 +4,16 @@ D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\bin\Debug\netstandard2.0\F
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\bin\Debug\netstandard2.0\ref\FacebookLogin.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\bin\Debug\netstandard2.0\FacebookLogin.pdb
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csproj.App.config
-D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csprojAssemblyReference.cache
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\Views\FacebookPage.xaml.g.cs
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\Views\InstagramPage.xaml.g.cs
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.AssemblyInfoInputs.cache
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.AssemblyInfo.cs
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csproj.CoreCompileInputs.cache
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csproj.CopyComplete
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\ref\FacebookLogin.dll
 D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.pdb
+D:\PROJECTS\FacebookLogin\FacebookLogin\FacebookLogin\obj\Debug\netstandard2.0\FacebookLogin.csprojAssemblyReference.cache

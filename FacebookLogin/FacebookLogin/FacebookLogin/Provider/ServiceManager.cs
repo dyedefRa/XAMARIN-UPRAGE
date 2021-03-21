@@ -25,5 +25,13 @@ namespace FacebookLogin.Provider
             var profile = JsonConvert.DeserializeObject<T>(userJson);
             return profile;
         }
+
+        public async Task<T> Get(string url)
+        {
+            var httpClient = await GetClient();
+            var response =await httpClient.GetStringAsync(url);
+            return JsonConvert.DeserializeObject<T>(response);
+        }
+
     }
 }

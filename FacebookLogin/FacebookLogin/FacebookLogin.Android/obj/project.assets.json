@@ -38,6 +38,17 @@
           "lib/monoandroid/System.Net.Http.Primitives.dll": {}
         }
       },
+      "modernhttpclient/2.4.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid/ModernHttpClient.dll": {},
+          "lib/MonoAndroid/OkHttp.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid/ModernHttpClient.dll": {},
+          "lib/MonoAndroid/OkHttp.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
@@ -1209,6 +1220,28 @@
         "lib/wpa81/System.Net.Http.Primitives.xml",
         "microsoft.net.http.2.2.29.nupkg.sha512",
         "microsoft.net.http.nuspec"
+      ]
+    },
+    "modernhttpclient/2.4.2": {
+      "sha512": "Srkrjz2wBCh7af+AGqpPkJ3FSSFSruzg9mHVwwXiklf9gx2L1Ss2M+p2Mf4Fw17AOe6yPuJwdu4AAoslc6zP+w==",
+      "type": "package",
+      "path": "modernhttpclient/2.4.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/ModernHttpClient-2.4.1.zip",
+        "lib/MonoAndroid/ModernHttpClient.dll",
+        "lib/MonoAndroid/ModernHttpClient.dll.mdb",
+        "lib/MonoAndroid/OkHttp.dll",
+        "lib/MonoTouch/ModernHttpClient.dll",
+        "lib/MonoTouch/ModernHttpClient.dll.mdb",
+        "lib/Portable-Net45+WinRT45+WP8+WPA81/ModernHttpClient.dll",
+        "lib/Portable-Net45+WinRT45+WP8+WPA81/ModernHttpClient.dll.mdb",
+        "lib/Xamarin.iOS10/ModernHttpClient.dll",
+        "lib/Xamarin.iOS10/ModernHttpClient.dll.mdb",
+        "lib/modernhttpclient.2.4.1.nupkg",
+        "modernhttpclient.2.4.2.nupkg.sha512",
+        "modernhttpclient.nuspec"
       ]
     },
     "Newtonsoft.Json/12.0.3": {
@@ -2395,7 +2428,8 @@
       "Microsoft.Net.Http >= 2.2.29",
       "Newtonsoft.Json >= 12.0.3",
       "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 5.0.0.2012"
+      "Xamarin.Forms >= 5.0.0.2012",
+      "modernhttpclient >= 2.4.2"
     ]
   },
   "packageFolders": {
@@ -2459,6 +2493,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[5.0.0.2012, )"
+          },
+          "modernhttpclient": {
+            "target": "Package",
+            "version": "[2.4.2, )"
           }
         }
       }

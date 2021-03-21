@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I/ceji34vxbIcNCHU/wcV7wtrLdreZzXPwn13XLQMrYY+rkTlY41ktjuVwgKDo6nJhAxC+NQ7N/OB5phBJXQUQ==",
+  "dgSpecHash": "wIUMo63s021cRzjBLgG6zXF0wcx3CXEkOIXuDwZmgwBnQXjS4OICOQo9UC61bdvV913EWMzP/n8RPuMVc+v/Jg==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\FacebookLogin\\FacebookLogin\\FacebookLogin.Android\\FacebookLogin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.bcl.build\\1.0.21\\microsoft.bcl.build.1.0.21.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\modernhttpclient\\2.4.2\\modernhttpclient.2.4.2.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
