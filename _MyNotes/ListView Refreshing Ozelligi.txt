@@ -12,6 +12,6 @@
      private void lstMVA_Refreshing(object sender, System.EventArgs e)
         {
             DisplayAlert("Refleshing Metodu Çalıştı", "Çalıştı", "Tamam");
-            lstMVA.IsRefreshing = false;
+            lstMVA.IsRefreshing= false;
         }
 
