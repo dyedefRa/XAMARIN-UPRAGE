@@ -11,6 +11,8 @@ git push origin master
 
 clear€
 
+
+
 exit€
 ------GUNCELLE-------
 git status
