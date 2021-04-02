@@ -17,10 +17,10 @@ namespace UberApp.Helper
     {
        
 
-        public static void InitializeDatabase(Context context)
+        public static void InitializeDatabase()
         {
             FirebaseDatabase database;
-            var app = FirebaseApp.InitializeApp(context);
+            var app = FirebaseApp.InitializeApp(Application.Context);
             if (app == null)
             {
                 var options = new FirebaseOptions.Builder()
@@ -30,7 +30,7 @@ namespace UberApp.Helper
                     .SetStorageBucket("uberapp-56725.appspot.com")
                     .Build();
 
-                app = FirebaseApp.InitializeApp(context, options);
+                app = FirebaseApp.InitializeApp(Application.Context, options);
             }
             database = FirebaseDatabase.GetInstance(app);
 
@@ -39,28 +39,32 @@ namespace UberApp.Helper
             DatabaseReference dbref = database.GetReference("UserSupport");
             dbref.SetValue("Ticket1");
 
-            Toast.MakeText(context, "Completed", ToastLength.Short).Show();
+            Toast.MakeText(Application.Context, "Completed", ToastLength.Short).Show();
         }
 
-        public static FirebaseDatabase GetDatabase()
-        {
-            var app = FirebaseApp.InitializeApp(Application.Context);
-            FirebaseDatabase database;
+        //public static FirebaseDatabase GetDatabase()
+        //{
+        //    var app = FirebaseApp.InitializeApp(Application.Context);
+        //    FirebaseDatabase database;
 
-            if (app == null)
-            {
-                var option = new FirebaseOptions.Builder()
-                   .SetApplicationId("uberapp-56725")
-                   .SetApiKey("AIzaSyAmZzmZD9EXFvqruksdNSHPYH6VV1e6uxw")
-                   .SetDatabaseUrl("https://uberapp-56725-default-rtdb.firebaseio.com/")
-                   .SetStorageBucket("uberapp-56725.appspot.com")
-                   .Build();
-                app = FirebaseApp.InitializeApp(Application.Context, option);
+        //    if (app == null)
+        //    {
+        //        var option = new FirebaseOptions.Builder()
+        //           .SetApplicationId("uberapp-56725")
+        //           .SetApiKey("AIzaSyAmZzmZD9EXFvqruksdNSHPYH6VV1e6uxw")
+        //           .SetDatabaseUrl("https://uberapp-56725-default-rtdb.firebaseio.com/")
+        //           .SetStorageBucket("uberapp-56725.appspot.com")
+        //           .Build();
+        //        app = FirebaseApp.InitializeApp(Application.Context, option);
 
-            }
-            database = FirebaseDatabase.GetInstance(app);
+        //    }
+        //    database = FirebaseDatabase.GetInstance(app);
 
-            return database;
-        }
+        //    DatabaseReference dbref = database.GetReference("UserSupport");
+        //    dbref.SetValue("Ticket2");
+
+        //    Toast.MakeText(Application.Context, "Completed", ToastLength.Short).Show();
+        //    return database;
+        //}
     }
 }

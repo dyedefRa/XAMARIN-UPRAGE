@@ -25,7 +25,7 @@ namespace UberApp
 
         private void BtnTestConnection_Click(object sender, System.EventArgs e)
         {
-            FirebaseClient.GetDatabase();
+            FirebaseClient.InitializeDatabase();
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
