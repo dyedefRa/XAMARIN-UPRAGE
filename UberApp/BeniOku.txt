@@ -1,1 +1,4 @@
 Xamarin.Firebase.Database ekledik.
+
+
+Refractored.Controls.CircleImageView indirdik CircleImage için

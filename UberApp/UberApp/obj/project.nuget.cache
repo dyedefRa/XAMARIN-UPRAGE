@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yLI21u65nrXxky+0wObCNhLWVCvBvIBACs1HpWNYnIAOpy8EebtyGFBHOjy0ES9Gscoj/kE/e/pspnHJJmdzpw==",
+  "dgSpecHash": "gBgNUTF3UQnuUfbFHSRiBr0AjSWS80kZhZUlilX1d4P+EaXLOaW6d5lDJV+ZqAydgYYOdRRBcKfVD7QoHvXJlA==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\UberApp\\UberApp\\UberApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\refractored.controls.circleimageview\\1.0.1\\refractored.controls.circleimageview.1.0.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.7\\xamarin.androidx.annotation.1.1.0.7.nupkg.sha512",

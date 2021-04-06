@@ -1,0 +1,1 @@
+<layer-list><item><color color="@color/splashBackground"></color></item><item><bitmap src="@drawable/cover" tileMode="disabled"></bitmap></item></layer-list>

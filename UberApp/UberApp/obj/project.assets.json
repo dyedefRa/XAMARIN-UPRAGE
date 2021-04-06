@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v11.0": {
+      "Refractored.Controls.CircleImageView/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Refractored.Controls.CircleImageView.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Refractored.Controls.CircleImageView.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -1043,6 +1052,19 @@
     }
   },
   "libraries": {
+    "Refractored.Controls.CircleImageView/1.0.1": {
+      "sha512": "0859oKAXBdJIRtS3c6uFD550LtZQfm7xNn+auZTkrHhnJPKp0df6lB7Fdrwjbi+l3R4BbHJsj9qCSlw8e6GdSw==",
+      "type": "package",
+      "path": "refractored.controls.circleimageview/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Refractored.Controls.CircleImageView.dll",
+        "lib/MonoAndroid10/Refractored.Controls.CircleImageView.xml",
+        "refractored.controls.circleimageview.1.0.1.nupkg.sha512",
+        "refractored.controls.circleimageview.nuspec"
+      ]
+    },
     "System.Numerics.Vectors/4.5.0": {
       "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
@@ -2039,6 +2061,7 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
+      "Refractored.Controls.CircleImageView >= 1.0.1",
       "Xamarin.AndroidX.AppCompat >= 1.2.0.5",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Firebase.Database >= 119.6.0",
@@ -2083,6 +2106,10 @@
     "frameworks": {
       "monoandroid11.0": {
         "dependencies": {
+          "Refractored.Controls.CircleImageView": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
           "Xamarin.AndroidX.AppCompat": {
             "target": "Package",
             "version": "[1.2.0.5, )"
