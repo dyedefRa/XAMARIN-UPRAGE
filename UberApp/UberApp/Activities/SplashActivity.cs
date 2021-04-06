@@ -13,7 +13,7 @@ using System.Threading;
 
 namespace UberApp.Activities
 {
-    [Activity(Label = "@string/app_name", MainLauncher = true, NoHistory = true, ScreenOrientation =Android.Content.PM.ScreenOrientation.Portrait)]
+    [Activity(Label = "@string/app_name", MainLauncher = true, NoHistory = false, ScreenOrientation =Android.Content.PM.ScreenOrientation.Portrait)]
     public class SplashActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

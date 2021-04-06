@@ -7,8 +7,8 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="0.6"
+        android:layout_height="01dp"
+        android:layout_weight="0.55"
         android:background="@color/uberPrimary">
 
         <Refractored.Controls.CircleImageView
@@ -22,7 +22,8 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:textSize="20sp"
-            android:layout_below="@+id/circleImageView1"
+            android:text="MY APP"
+            android:layout_below="@+id/circleImageView1"         
             android:layout_alignParentBottom="true"
             android:textColor="@color/uberWhite"
            />
@@ -37,12 +38,46 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="emailText">
+            android:id="@+id/emailText">
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:inputType="textEmailAddress"/>
         </com.google.android.material.textfield.TextInputLayout>
 
+         <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passwordText">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"/>
+        </com.google.android.material.textfield.TextInputLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/btnLogin"
+                android:layout_width="300dp"
+                android:layout_height="45dp"
+                android:text="Login"
+                android:textColor="@color/uberWhite"
+                android:background="@color/uberAccentClick"
+                android:layout_centerInParent="true"
+               />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_below="@+id/btnLogin"
+                android:text="@string/click_here"
+                android:layout_marginTop="8dp"
+                />
+        </RelativeLayout>
     </LinearLayout>
 
 </LinearLayout>
+              

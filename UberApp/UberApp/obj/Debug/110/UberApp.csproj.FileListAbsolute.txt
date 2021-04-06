@@ -367,3 +367,6 @@ D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\layout\login.xml
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\android\assets\Refractored.Controls.CircleImageView.dll
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\android\src\crc64b227089827305775\CircleImageView.java
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\android\src\de\hdodenhof\circleimageview\R.java
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\UberApp.csprojAssemblyReference.cache
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\drawable\center_image.jfif
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\android\src\crc647b66af11cce91f39\LoginActivity.java
