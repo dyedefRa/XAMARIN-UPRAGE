@@ -12,7 +12,8 @@
   <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme">
     <uses-library android:name="org.apache.http.legacy" android:required="false" />
     <activity android:name="crc64d9b7b85225880d8c.MainActivity" android:label="@string/app_name" android:theme="@style/AppTheme" />
-    <activity android:name="crc647b66af11cce91f39.LoginActivity" android:label="@string/app_name">
+    <activity android:name="crc647b66af11cce91f39.LoginActivity" android:label="@string/app_name" />
+    <activity android:name="crc647b66af11cce91f39.RegisterActivity" android:label="@string/app_name">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

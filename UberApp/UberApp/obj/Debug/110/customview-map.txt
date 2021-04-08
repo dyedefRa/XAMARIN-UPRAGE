@@ -6,13 +6,16 @@ background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 bitmap;obj\Debug\110\res\drawable\splash.xml
 Button;obj\Debug\110\res\layout\activity_main.xml
 Button;obj\Debug\110\res\layout\login.xml
+Button;obj\Debug\110\res\layout\register.xml
 cache-path;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\110\res\drawable\splash.xml
 color;obj\Debug\110\res\values\colors.xml
 color;obj\Debug\110\res\values\ic_launcher_background.xml
 com.google.android.material.textfield.TextInputLayout;obj\Debug\110\res\layout\login.xml
+com.google.android.material.textfield.TextInputLayout;obj\Debug\110\res\layout\register.xml
 declare-styleable;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\0\jl\res\values\values.xml
 EditText;obj\Debug\110\res\layout\login.xml
+EditText;obj\Debug\110\res\layout\register.xml
 external-cache-path;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
@@ -22,9 +25,12 @@ item;obj\Debug\110\res\values\styles.xml
 layer-list;obj\Debug\110\res\drawable\splash.xml
 LinearLayout;obj\Debug\110\res\layout\activity_main.xml
 LinearLayout;obj\Debug\110\res\layout\login.xml
+LinearLayout;obj\Debug\110\res\layout\register.xml
 paths;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 Refractored.Controls.CircleImageView;obj\Debug\110\res\layout\login.xml
+Refractored.Controls.CircleImageView;obj\Debug\110\res\layout\register.xml
 RelativeLayout;obj\Debug\110\res\layout\login.xml
+RelativeLayout;obj\Debug\110\res\layout\register.xml
 resources;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\googsvcsjson\values\goog_svcs_json.xml
 resources;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\0\jl\res\values\values.xml
 resources;obj\Debug\110\res\values\colors.xml
@@ -35,3 +41,4 @@ string;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\googsvcsjson\values\goog_svcs_j
 string;obj\Debug\110\res\values\strings.xml
 style;obj\Debug\110\res\values\styles.xml
 TextView;obj\Debug\110\res\layout\login.xml
+TextView;obj\Debug\110\res\layout\register.xml

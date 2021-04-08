@@ -11,7 +11,7 @@ using System.Text;
 
 namespace UberApp.Activities
 {
-    [Activity(Label = "@string/app_name",MainLauncher =true)]
+    [Activity(Label = "@string/app_name", MainLauncher = false)]
     public class LoginActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
