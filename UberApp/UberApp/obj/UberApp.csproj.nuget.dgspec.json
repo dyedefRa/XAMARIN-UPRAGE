@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[1.6.1, )"
             },
+            "Xamarin.Firebase.Auth": {
+              "target": "Package",
+              "version": "[120.0.2, )"
+            },
             "Xamarin.Firebase.Database": {
               "target": "Package",
               "version": "[119.6.0, )"

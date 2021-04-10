@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gBgNUTF3UQnuUfbFHSRiBr0AjSWS80kZhZUlilX1d4P+EaXLOaW6d5lDJV+ZqAydgYYOdRRBcKfVD7QoHvXJlA==",
+  "dgSpecHash": "svTF0LJ0dl4Iuq5+sAweEl8afKL7WmvYpc1l5FLCdoOVUzxZ2Hl1P/MGHn11Wh6eFKAM0Qa88qIbJ+fnbfzzLw==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\UberApp\\UberApp\\UberApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi-nb\\.nuget\\packages\\refractored.controls.circleimageview\\1.0.1\\refractored.controls.circleimageview.1.0.1.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\system.json\\4.5.0\\system.json.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.7\\xamarin.androidx.annotation.1.1.0.7.nupkg.sha512",
@@ -48,15 +49,18 @@
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.annotations\\116.0.0\\xamarin.firebase.annotations.116.0.0.nupkg.sha512",
-    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.auth.interop\\119.0.1\\xamarin.firebase.auth.interop.119.0.1.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.auth\\120.0.2\\xamarin.firebase.auth.120.0.2.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.auth.interop\\119.0.2\\xamarin.firebase.auth.interop.119.0.2.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.common\\119.5.0\\xamarin.firebase.common.119.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.components\\116.1.0\\xamarin.firebase.components.116.1.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.database\\119.6.0\\xamarin.firebase.database.119.6.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.firebase.database.collection\\117.0.1\\xamarin.firebase.database.collection.117.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.android.material\\1.0.0.1\\xamarin.google.android.material.1.0.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.googleplayservices.auth.api.phone\\117.5.0\\xamarin.googleplayservices.auth.api.phone.117.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.googleplayservices.base\\117.5.0\\xamarin.googleplayservices.base.117.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.googleplayservices.basement\\117.5.0\\xamarin.googleplayservices.basement.117.5.0.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.googleplayservices.safetynet\\117.0.0\\xamarin.googleplayservices.safetynet.117.0.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.googleplayservices.tasks\\117.2.0\\xamarin.googleplayservices.tasks.117.2.0.nupkg.sha512"
   ],
   "logs": []

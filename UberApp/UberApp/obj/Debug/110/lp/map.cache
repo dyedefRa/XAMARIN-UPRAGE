@@ -91,3 +91,10 @@ firebasecomponents-16.1.0.aar
 firebasecommon-19.5.0.aar
 firebaseauthinterop-19.0.1.aar
 firebasedatabase-19.6.0.aar
+Xamarin.Firebase.Auth.dll
+Xamarin.GooglePlayServices.Auth.Api.Phone.dll
+Xamarin.GooglePlayServices.SafetyNet.dll
+playservicessafetynet-17.0.0.aar
+playservicesauthapiphone-17.5.0.aar
+firebaseauthinterop-19.0.2.aar
+firebaseauth-20.0.2.aar
