@@ -9,11 +9,11 @@ git push origin master
  
 
 
-clear€
+clear€€
 
 
 
-exit€
+exit€€
 ------GUNCELLE-------
 git status
 git add .

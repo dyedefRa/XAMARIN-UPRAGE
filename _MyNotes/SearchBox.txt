@@ -12,7 +12,7 @@ XAML.Cs------------
             }
 
             var newList = MVAFactory.MVAData.Where(x => x.Title.Contains(e.NewTextValue) || x.Description.Contains(e.NewTextValue)).ToList();
-            lstMVA.ItemsSource = newList;;
+            lstMVA.ItemsSource = newList;;;
          
         }  
 
