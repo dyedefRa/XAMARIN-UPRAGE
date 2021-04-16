@@ -102,6 +102,8 @@ namespace UberApp.Activities
         private void TaskCompletionListener_Success(object sender, EventArgs e)
         {
             Snackbar.Make(rootView, "User Registration was Successfull", Snackbar.LengthShort).Show();
+
+         
         }
 
         public static void InitializeFirebase()
