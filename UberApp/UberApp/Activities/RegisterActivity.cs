@@ -1,4 +1,5 @@
 ﻿using Android.App;
+using Android.Content;
 using Android.OS;
 using Android.Widget;
 using AndroidX.AppCompat.App;
@@ -8,12 +9,13 @@ using Firebase.Auth;
 using Firebase.Database;
 using Google.Android.Material.Snackbar;
 using Google.Android.Material.TextField;
+using Java.Util;
 using System;
 using UberApp.Helper;
 
 namespace UberApp.Activities
 {
-    [Activity(Label = "@string/app_name", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", MainLauncher = false)]
     public class RegisterActivity : AppCompatActivity
     {
         TextInputLayout txtFullName;
@@ -22,12 +24,18 @@ namespace UberApp.Activities
         TextInputLayout txtPassword;
         Button btnRegister;
         CoordinatorLayout rootView;
+        TextView clickToLoginText;
 
         FirebaseAuth mAuth;
         FirebaseDatabase database;
 
         TaskCompletionListener taskCompletionListener = new TaskCompletionListener();
 
+        string fullName, phone, email, password;
+
+        //Local Storage?
+        ISharedPreferences preferences = Application.Context.GetSharedPreferences("userinfo", FileCreationMode.Private);
+        ISharedPreferencesEditor editor;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -48,13 +56,22 @@ namespace UberApp.Activities
             txtPassword = (TextInputLayout)FindViewById(Resource.Id.txtPassword);
             btnRegister = (Button)FindViewById(Resource.Id.btnRegister);
             rootView = (CoordinatorLayout)FindViewById(Resource.Id.rootView);
+            clickToLoginText = (TextView)FindViewById(Resource.Id.clickToLogin);
 
             btnRegister.Click += BtnRegister_Click;
+
+            clickToLoginText.Click += ClickToLoginText_Click;
+        }
+
+        private void ClickToLoginText_Click(object sender, EventArgs e)
+        {
+            StartActivity(typeof(LoginActivity));
+            Finish();
         }
 
         private void BtnRegister_Click(object sender, EventArgs e)
         {
-            string fullName, phone, email, password;
+     
             fullName = txtFullName.EditText.Text;
             phone = txtPhone.EditText.Text;
             email = txtEmail.EditText.Text;
@@ -102,13 +119,42 @@ namespace UberApp.Activities
         private void TaskCompletionListener_Success(object sender, EventArgs e)
         {
             Snackbar.Make(rootView, "User Registration was Successfull", Snackbar.LengthShort).Show();
+            //Dictionary ile aynı
+            HashMap userMap = new HashMap();
+            userMap.Put("email", email);
+            userMap.Put("phone", phone);
+            userMap.Put("fullname", fullName);
 
-         
+            //InitializeFirebase();
+            //Buraya key lazım uniq tel num ayarlıyoruz
+            //Sonrada userkey yaptık.
+            DatabaseReference userReference = database.GetReference("users/" + mAuth.CurrentUser.Uid);
+            userReference.SetValue(userMap);
+
+
         }
 
-        public static void InitializeFirebase()
+        void SaveToSharedPreference()
         {
-            FirebaseDatabase database;
+            //Local Storage?
+            //ISharedPreferences preferences = Application.Context.GetSharedPreferences("userinfo", FileCreationMode.Private);
+            //ISharedPreferencesEditor editor;
+
+            editor = preferences.Edit();
+            editor.PutString("email", email);
+            editor.PutString("fullname", fullName);
+            editor.PutString("phone", phone);
+            editor.Apply();
+        }
+
+        void RetriveData()
+        {
+            string email = preferences.GetString("email","");
+        }
+
+        public  void InitializeFirebase()
+        {
+            
             var app = FirebaseApp.InitializeApp(Application.Context);
             if (app == null)
             {

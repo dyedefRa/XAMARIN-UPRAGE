@@ -22,13 +22,13 @@ namespace UberApp.Activities
 
             // Create your application here
 
-            Thread.Sleep(2000);
+            //Thread.Sleep(2000);
         }
 
         protected override void OnResume()
         {
             base.OnResume();
-            StartActivity(typeof(RegisterActivity));
+            StartActivity(typeof(LoginActivity));
         }
     }
 }

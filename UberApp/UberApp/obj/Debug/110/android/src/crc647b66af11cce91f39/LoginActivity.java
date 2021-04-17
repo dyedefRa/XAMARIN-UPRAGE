@@ -2,7 +2,7 @@ package crc647b66af11cce91f39;
 
 
 public class LoginActivity
-	extends android.app.Activity
+	extends androidx.appcompat.app.AppCompatActivity
 	implements
 		mono.android.IGCUserPeer
 {
@@ -21,6 +21,14 @@ public class LoginActivity
 		super ();
 		if (getClass () == LoginActivity.class)
 			mono.android.TypeManager.Activate ("UberApp.Activities.LoginActivity, UberApp", "", this, new java.lang.Object[] {  });
+	}
+
+
+	public LoginActivity (int p0)
+	{
+		super (p0);
+		if (getClass () == LoginActivity.class)
+			mono.android.TypeManager.Activate ("UberApp.Activities.LoginActivity, UberApp", "System.Int32, mscorlib", this, new java.lang.Object[] { p0 });
 	}
 
 

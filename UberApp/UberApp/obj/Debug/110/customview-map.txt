@@ -1,5 +1,6 @@
 adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;obj\Debug\110\res\layout\login.xml
 androidx.coordinatorlayout.widget.CoordinatorLayout;obj\Debug\110\res\layout\register.xml
 attr;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\0\jl\res\values\values.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
