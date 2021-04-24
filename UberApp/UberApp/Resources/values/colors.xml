@@ -9,4 +9,5 @@
 	<color name="uberPrimaryDark">#102A38</color>
 	<color name="uberWhite">#fff</color>
 	<color name="uberAccentClick">#A25508</color>
+	<color name="uberAsh">#e2e2e2</color>
 </resources>

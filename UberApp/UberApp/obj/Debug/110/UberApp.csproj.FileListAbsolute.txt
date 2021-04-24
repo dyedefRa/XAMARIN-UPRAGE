@@ -10,7 +10,6 @@ D:\PROJECTS\UberApp\UberApp\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttr
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\googsvcsjson\values\goog_svcs_json.xml
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\build.props
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\adb.props
-D:\PROJECTS\UberApp\UberApp\obj\Debug\110\UberApp.csprojAssemblyReference.cache
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res.flag
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\12D4A60DD6F18A19-files.cache
@@ -383,3 +382,9 @@ D:\PROJECTS\UberApp\UberApp\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 D:\PROJECTS\UberApp\UberApp\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\layout\include_main.xml
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\layout\headerlayout.xml
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\drawable\account.png
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\menu\navmenu.xml
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\UberApp.csprojAssemblyReference.cache
+D:\PROJECTS\UberApp\UberApp\obj\Debug\110\res\drawable\navmenu.xml

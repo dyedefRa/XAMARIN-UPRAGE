@@ -19,14 +19,14 @@ namespace UberApp
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
 
-            btnTestConnection = (Button)FindViewById(Resource.Id.myFirstButton);
-            btnTestConnection.Click += BtnTestConnection_Click;
+            //btnTestConnection = (Button)FindViewById(Resource.Id.myFirstButton);
+            //btnTestConnection.Click += BtnTestConnection_Click;
         }
 
-        private void BtnTestConnection_Click(object sender, System.EventArgs e)
-        {
-            FirebaseClient.InitializeDatabase();
-        }
+        //private void BtnTestConnection_Click(object sender, System.EventArgs e)
+        //{
+        //    FirebaseClient.InitializeDatabase();
+        //}
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
