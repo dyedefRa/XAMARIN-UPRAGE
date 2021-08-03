@@ -27,12 +27,10 @@ foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 FrameLayout;obj\Debug\110\res\layout\headerlayout.xml
 FrameLayout;obj\Debug\110\res\layout\include_main.xml
 group;obj\Debug\110\res\drawable\navmenu.xml
-group;obj\Debug\110\res\layout\navmenu.xml
 group;obj\Debug\110\res\menu\navmenu.xml
 include;obj\Debug\110\res\layout\activity_main.xml
 item;obj\Debug\110\res\drawable\navmenu.xml
 item;obj\Debug\110\res\drawable\splash.xml
-item;obj\Debug\110\res\layout\navmenu.xml
 item;obj\Debug\110\res\menu\navmenu.xml
 item;obj\Debug\110\res\values\styles.xml
 layer-list;obj\Debug\110\res\drawable\splash.xml
@@ -40,7 +38,6 @@ LinearLayout;obj\Debug\110\res\layout\activity_main.xml
 LinearLayout;obj\Debug\110\res\layout\login.xml
 LinearLayout;obj\Debug\110\res\layout\register.xml
 menu;obj\Debug\110\res\drawable\navmenu.xml
-menu;obj\Debug\110\res\layout\navmenu.xml
 menu;obj\Debug\110\res\menu\navmenu.xml
 paths;D:\PROJECTS\UberApp\UberApp\obj\Debug\110\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 Refractored.Controls.CircleImageView;obj\Debug\110\res\layout\headerlayout.xml

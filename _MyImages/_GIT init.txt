@@ -22,5 +22,9 @@ git commit -m 'Second'
 git push gits master€€
 
 
+RENAME 
+$ git remote rename <old-name> <new-name>
+
+
 .
 
