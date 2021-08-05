@@ -18,15 +18,25 @@ namespace AcikAkademiDersleri
             CreateMap();
         }
 
-        private void CreateMap()
+        private async void CreateMap()
         {
-            GetLocationWithGeolocator();
-            Xamarin.Forms.Maps.Map currentMap = new Xamarin.Forms.Maps.Map()
+            //if (CrossGeolocator.Current.IsGeolocationAvailable)
+
+
+            Map currentMap = new Map()
             {
                 HasScrollEnabled = true,
                 HasZoomEnabled = true,
-                MapType = MapType.Street
+                MapType = MapType.Street,
+                IsShowingUser = true
             };
+
+            var locator = CrossGeolocator.Current;
+            locator.DesiredAccuracy = 50;
+
+            var positon = await locator.GetPositionAsync(TimeSpan.FromSeconds(20));
+            var Latitude = positon.Latitude;
+            var Longitude = positon.Longitude;
 
             currentMap.MoveToRegion(
                 MapSpan.FromCenterAndRadius(
@@ -43,17 +53,17 @@ namespace AcikAkademiDersleri
             };
             microsoftPin.Clicked += MicrosoftPin_Clicked;
 
-            Pin testPini = new Pin()
-            {
-                Type = PinType.SavedPin,
-                Address = "Test Pin Addres",
-                Label = "Test Pin Label",
-                Position = new Position(41.0703419, 29.0158065)
-            };
-            testPini.Clicked += MicrosoftPin_Clicked;
+            //Pin testPini = new Pin()
+            //{
+            //    Type = PinType.SavedPin,
+            //    Address = "Test Pin Addres",
+            //    Label = "Test Pin Label",
+            //    Position = new Position(41.0703419, 29.0158065)
+            //};
+            //testPini.Clicked += MicrosoftPin_Clicked;
 
             currentMap.Pins.Add(microsoftPin);
-            currentMap.Pins.Add(testPini);
+            //currentMap.Pins.Add(testPini);
 
             Content = currentMap;
         }
@@ -64,25 +74,6 @@ namespace AcikAkademiDersleri
             DisplayAlert(selectedPin.Label, selectedPin.Address, "Ok");
         }
 
-
-        private async void GetLocationWithGeolocator()
-        {
-            if (CrossGeolocator.Current.IsGeolocationAvailable)
-            {
-                //Burası pluginin readme dosyasında yazıyor.
-                var locator = CrossGeolocator.Current;
-                locator.DesiredAccuracy = 50;
-
-                var positon = await locator.GetPositionAsync(TimeSpan.FromSeconds(20));
-
-                Latitude = positon.Latitude;
-                Longitude = positon.Longitude;
-            }
-           
-
-        }
-
- 
     }
 
 }
