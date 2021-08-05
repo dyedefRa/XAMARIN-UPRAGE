@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "kddxHnNQHhg1nsOwFejKbOmP8egXf9b8LxycrhHIQ1TTlj7HkQ3ArzsFSDLJ02iOHBRO2OBb9DNPUUBN8qvmcQ==",
+  "dgSpecHash": "jMsikW1zBGj0Tc9lv9V3dwRyY0gEmrplunnlnfICiXteQZSbs8uDpu3UGI/D5lvRue6vVzIQictjpW0FJ8q8iQ==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\AcikAkademiDersleri\\AcikAkademiDersleri\\AcikAkademiDersleri.Android\\AcikAkademiDersleri.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.currentactivity\\2.1.0.2\\plugin.currentactivity.2.1.0.2.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.annotations\\25.4.0.2\\xamarin.android.support.annotations.25.4.0.2.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.compat\\25.4.0.2\\xamarin.android.support.compat.25.4.0.2.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.android.support.core.utils\\25.4.0.2\\xamarin.android.support.core.utils.25.4.0.2.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.androidx.activity\\1.2.0.1\\xamarin.androidx.activity.1.2.0.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.androidx.annotation\\1.1.0.9\\xamarin.androidx.annotation.1.1.0.9.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.0.0.9\\xamarin.androidx.annotation.experimental.1.0.0.9.nupkg.sha512",

@@ -1,3 +1,6 @@
+--------------------
+Xamarin Form Maps indirdik.
+
 1 Map için Apý key alacaksýn =>
 https://console.cloud.google.com/google/maps-apis/credentials?project=thinking-heaven-316821
 
@@ -6,3 +9,10 @@ https://console.cloud.google.com/google/maps-apis/credentials?project=thinking-h
 
 3 AndroidManifest dosyasýna api key ekleyeceksin =>
 <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDn1Nu1KK1tieDZdeia8kifllk_N-YZWYs"/>
+
+-------------------- GEOLOCATOR
+
+Package Manager Console > 
+1  NuGet  > Xam.Plugin.Geolocator Yada Install-Package Xam.Plugin.Geolocator -Version 3.0.4 
+
+2 The ACCESS_COARSE_LOCATION & ACCESS_FINE_LOCATION  izin ver . Android tarafýnda.

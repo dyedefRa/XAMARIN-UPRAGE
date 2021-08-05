@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcikAkademiDersleri.Android", "AcikAkademiDersleri\AcikAkademiDersleri.Android\AcikAkademiDersleri.Android.csproj", "{E72C17E2-8406-4240-8B0C-83E3C8B437CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcikAkademiDersleri", "AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri.csproj", "{3E8CC1F3-3028-47F8-B654-38CF31C48E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcikAkademiDersleri", "AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri.csproj", "{3E8CC1F3-3028-47F8-B654-38CF31C48E00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8FFDDF12-3845-4AC1-9D55-414E0BD06DAB}"
+	ProjectSection(SolutionItems) = preProject
+		BeniOku.txt = BeniOku.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
