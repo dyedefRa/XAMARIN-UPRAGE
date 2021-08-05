@@ -2,7 +2,6 @@ D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\App1.deps.j
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\App1.dll
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\App1.pdb
-D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\Mono.Androi
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\Mono.Android.pdb
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\bin\Debug\netstandard2.0\Mono.Android.xml
 D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CopyComplete
+D:\PROJECTS\AcikAkademiIleriDers2\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\bin\Debug\netstandard2.0\AcikAkademiDersleri.deps.json
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\bin\Debug\netstandard2.0\AcikAkademiDersleri.dll
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\bin\Debug\netstandard2.0\ref\AcikAkademiDersleri.dll
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\bin\Debug\netstandard2.0\AcikAkademiDersleri.pdb
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\AcikAkademiDersleri.csproj.AssemblyReference.cache
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\AcikAkademiDersleri.AssemblyInfoInputs.cache
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\AcikAkademiDersleri.AssemblyInfo.cs
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\AcikAkademiDersleri.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\AcikAkademiDersleri.dll
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\ref\AcikAkademiDersleri.dll
+D:\PROJECTS\AcikAkademiDersleri\AcikAkademiDersleri\AcikAkademiDersleri\obj\Debug\netstandard2.0\AcikAkademiDersleri.pdb

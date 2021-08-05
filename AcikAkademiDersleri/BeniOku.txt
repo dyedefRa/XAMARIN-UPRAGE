@@ -1,0 +1,8 @@
+1 Map için Apý key alacaksýn =>
+https://console.cloud.google.com/google/maps-apis/credentials?project=thinking-heaven-316821
+
+2 MainActivitiy e haritayý tanýtacaksýn =>
+  global::Xamarin.FormsMaps.Init(this,savedInstanceState);
+
+3 AndroidManifest dosyasýna api key ekleyeceksin =>
+<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDn1Nu1KK1tieDZdeia8kifllk_N-YZWYs"/>
