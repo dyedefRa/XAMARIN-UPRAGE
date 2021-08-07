@@ -11,17 +11,13 @@ namespace AcikAkademiDersleri
         private double Longitude;
 
         public MapPage()
-        {
-            //Basit olarak oluşturdugumuz method
-            // CreateMap();
-
+        {         
             CreateMap();
         }
 
         private async void CreateMap()
         {
             //if (CrossGeolocator.Current.IsGeolocationAvailable)
-
 
             Map currentMap = new Map()
             {
