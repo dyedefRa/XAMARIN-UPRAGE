@@ -1,0 +1,15 @@
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\bin\Debug\netstandard2.0\AcikAkademiUpper3.deps.json
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\bin\Debug\netstandard2.0\AcikAkademiUpper3.dll
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\bin\Debug\netstandard2.0\ref\AcikAkademiUpper3.dll
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\bin\Debug\netstandard2.0\AcikAkademiUpper3.pdb
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\AcikAkademiUpper3.csproj.AssemblyReference.cache
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\AcikAkademiUpper3.AssemblyInfoInputs.cache
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\AcikAkademiUpper3.AssemblyInfo.cs
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\AcikAkademiUpper3.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\AcikAkademiUpper3.dll
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\ref\AcikAkademiUpper3.dll
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\AcikAkademiUpper3.pdb
+D:\PROJECTS\AcikAkademiUpper3\AcikAkademiUpper3\AcikAkademiUpper3\obj\Debug\netstandard2.0\Pages\SharePluginPage.xaml.g.cs

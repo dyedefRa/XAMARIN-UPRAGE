@@ -16,3 +16,6 @@ Package Manager Console >
 1  NuGet  > Xam.Plugin.Geolocator Yada Install-Package Xam.Plugin.Geolocator -Version 3.0.4 
 
 2 The ACCESS_COARSE_LOCATION & ACCESS_FINE_LOCATION  izin ver . Android tarafýnda.
+
+
+-----------------CAROUSEL PAGE

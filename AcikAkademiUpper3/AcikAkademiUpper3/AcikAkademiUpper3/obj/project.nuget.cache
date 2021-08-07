@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZJVIzzN2FD8rWtcihOkRQmj4h5UmCWxbbpDJg8EeuZwLH0JukRZqGR2AwqCeS1VLbXeZht0eS/XKI+JillxWQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\AcikAkademiUpper3\\AcikAkademiUpper3\\AcikAkademiUpper3\\AcikAkademiUpper3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
