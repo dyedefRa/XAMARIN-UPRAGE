@@ -1,1 +1,17 @@
 SharePlugin ile Paylaþým yaptýrabýlýyoruz.
+Plugin.Share indirdik
+
+------------------------------------------------
+MediaPlugin XXXXXXXXXXXXXXXXXXXXXX
+Xam.Plugin.Media indirdik. sorun yaþadýk !!
+
+---
+MediaPicker kullanarak resim çektik.
+Herhangi bir dll indiredik.
+-----
+NOTIFIERS >>
+
+xam.plugins.notifier
+
+icon için =>  Manifest
+ LocalNotificationsImplementation.NotificationIconId = Resource.Drawable.ic_arrow_down_24dp;

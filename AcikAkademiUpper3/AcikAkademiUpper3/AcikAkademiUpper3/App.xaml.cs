@@ -11,7 +11,7 @@ namespace AcikAkademiUpper3
         {
             InitializeComponent();
 
-            MainPage = new SharePluginPage();
+            MainPage = new NotifierPluginPage();
         }
 
         protected override void OnStart()

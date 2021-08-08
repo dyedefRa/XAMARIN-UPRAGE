@@ -11,7 +11,7 @@ namespace UsingSocialPlatform
         {
             InitializeComponent();
 
-            MainPage = new PluginPushNotification();
+            MainPage = new PluginMedia();
         }
 
         protected override void OnStart()

@@ -10,7 +10,6 @@ D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\build.props
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\adb.props
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\UsingSocialPlatform.Android.csprojAssemblyReference.cache
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\res.flag
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\stamp\_AndroidXJetifyEmbeddedFiles.stamp
@@ -600,8 +599,7 @@ D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\android\assets\Plugin.LocalNotifications.dll
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\android\assets\Plugin.LocalNotifications.dll.mdb
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.v4.dll
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\androidx\jl\4f6c94c2-5f44-4546-8b57-b9f059162fbb.jar
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\androidx\proguard\1d5f21bc-7f12-4a1a-b922-8b5f9e5b4731.cfg
 D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\android\src\crc640f9a3bf7250ef269\ScheduledAlarmHandler.java
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\android\assets\Plugin.LocalNotifications.pdb
-D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\android\assets\Plugin.Share.pdb
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\UsingSocialPlatform.Android.csproj.AssemblyReference.cache
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\androidx\jl\56a7aa1a-8f93-4280-9473-dfc02df2e074.jar
+D:\PROJECTS\UsingSocialPlatform\UsingSocialPlatform\UsingSocialPlatform.Android\obj\Debug\110\androidx\proguard\9145de1f-a44d-4cd3-89a5-b4280d26b228.cfg
