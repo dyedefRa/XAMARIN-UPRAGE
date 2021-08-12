@@ -7,7 +7,12 @@
         <Entry x:Name="txtName" Placeholder="Enter name"></Entry>
         <CheckBox x:Name="subscribed" ></CheckBox>
         <Button Text="Add to Database" Clicked="Button_Clicked"></Button>
-        <CollectionView x:Name="collectionview">
+        <Button Text="Update Database" Clicked="Button_Clicked_1"></Button>
+        <Button Text="Delete Database" Clicked="Button_Clicked_2"></Button>
+        <Button Text="Get Subscribed" Clicked="Button_Clicked_3"></Button>
+        <Button Text="Get Not Subscribed" Clicked="Button_Clicked_4"></Button>
+
+        <CollectionView x:Name="collectionview" SelectionMode="Single" SelectionChanged="collectionview_SelectionChanged">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout>
