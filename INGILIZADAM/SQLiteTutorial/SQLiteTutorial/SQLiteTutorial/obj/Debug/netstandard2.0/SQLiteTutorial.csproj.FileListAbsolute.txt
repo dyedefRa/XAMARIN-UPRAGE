@@ -1,0 +1,14 @@
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\bin\Debug\netstandard2.0\SQLiteTutorial.deps.json
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\bin\Debug\netstandard2.0\SQLiteTutorial.dll
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\bin\Debug\netstandard2.0\ref\SQLiteTutorial.dll
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\bin\Debug\netstandard2.0\SQLiteTutorial.pdb
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\SQLiteTutorial.csproj.AssemblyReference.cache
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\SQLiteTutorial.AssemblyInfoInputs.cache
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\SQLiteTutorial.AssemblyInfo.cs
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\SQLiteTutorial.csproj.CoreCompileInputs.cache
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\SQLiteTutorial.dll
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\ref\SQLiteTutorial.dll
+D:\PROJECTS\INGILIZADAM\SQLiteTutorial\SQLiteTutorial\SQLiteTutorial\obj\Debug\netstandard2.0\SQLiteTutorial.pdb
