@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1STAqrBdNy9deFBOFjMphIgTftr2jInz3Nlb4rV29pgHBMH83jiovaUc7aizD81RmnJoNtsVRE2JoYAzg0IaoQ==",
+  "dgSpecHash": "mxFR9yCkofo8tCjS39/sltfaK1y8Kd2LEPOaYnClCEI7ZkIXnQgI9+VXCXA1QnYRl9kYZ7cgMWXvIQ2kNxBXKA==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\INGILIZADAM\\EssentialsTutorial\\EssentialsTutorial\\EssentialsTutorial.Android\\EssentialsTutorial.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.audiorecorder\\1.1.0\\plugin.audiorecorder.1.1.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.androidx.activity\\1.2.0.1\\xamarin.androidx.activity.1.2.0.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.androidx.annotation\\1.1.0.9\\xamarin.androidx.annotation.1.1.0.9.nupkg.sha512",

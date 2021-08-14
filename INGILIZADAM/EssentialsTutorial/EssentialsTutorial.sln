@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialsTutorial.Android"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialsTutorial.iOS", "EssentialsTutorial\EssentialsTutorial.iOS\EssentialsTutorial.iOS.csproj", "{041CBE7C-6928-45B4-AC07-295146A8BC49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialsTutorial", "EssentialsTutorial\EssentialsTutorial\EssentialsTutorial.csproj", "{2DB8FE1A-530A-4C6E-B121-3562A528939B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EssentialsTutorial", "EssentialsTutorial\EssentialsTutorial\EssentialsTutorial.csproj", "{2DB8FE1A-530A-4C6E-B121-3562A528939B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD7251E6-1C72-4690-8940-5D0858E9D1FF}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8Z29cMbzPwLhpM1yOv28hc5DYf62uBRK8BMmH20Bkpj4rfWfMxJ2+g+yGOvP9wHRZrjqEsCwtIc4+kA+dWGfuA==",
+  "dgSpecHash": "a+e6Vuo/cfaNKcOVM+GBsl5WT+0qig5LzOnIQsEWPZ/haLRYtFB4X3Jhmc18JfOPbwSKUlI3ZvSGjgXpyKkOKA==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\INGILIZADAM\\EssentialsTutorial\\EssentialsTutorial\\EssentialsTutorial.iOS\\EssentialsTutorial.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.audiorecorder\\1.1.0\\plugin.audiorecorder.1.1.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"

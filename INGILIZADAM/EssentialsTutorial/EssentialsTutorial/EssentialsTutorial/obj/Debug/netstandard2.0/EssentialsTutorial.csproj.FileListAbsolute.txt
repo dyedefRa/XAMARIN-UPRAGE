@@ -1,0 +1,17 @@
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\EssentialsTutorial.deps.json
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\EssentialsTutorial.dll
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\ref\EssentialsTutorial.dll
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\EssentialsTutorial.pdb
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.csproj.AssemblyReference.cache
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.AssemblyInfoInputs.cache
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.AssemblyInfo.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.csproj.CoreCompileInputs.cache
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.dll
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\ref\EssentialsTutorial.dll
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.pdb
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\MapPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\AudioPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\BatterySamplePage.xaml.g.cs

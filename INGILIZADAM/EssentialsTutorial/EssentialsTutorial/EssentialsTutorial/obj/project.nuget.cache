@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DZyqAX7eoHptOS9jHhPggd2rxd6ZEuJKcJr/nbedQ/roHrMKUFiLbSuLOS/Q/HY9rvQUbNqh5s3+aQFv3AiQ2Q==",
+  "dgSpecHash": "CrTi8ShOiht7NPjlvHrAiV73DFp+lIydA7WEKYoiFfP4s4DVlJ7uGw2wjAt5nt4KKYpppARBnLi19HzWf4wuoA==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\INGILIZADAM\\EssentialsTutorial\\EssentialsTutorial\\EssentialsTutorial\\EssentialsTutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\msi-nb\\.nuget\\packages\\plugin.audiorecorder\\1.1.0\\plugin.audiorecorder.1.1.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"

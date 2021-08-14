@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EssentialsTutorial.Pages;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace EssentialsTutorial
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new BatterySamplePage();
         }
 
         protected override void OnStart()

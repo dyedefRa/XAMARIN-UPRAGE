@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v11.0": {
+      "Plugin.AudioRecorder/1.1.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid81/Plugin.AudioRecorder.dll": {}
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -1063,6 +1079,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Plugin.AudioRecorder": "1.1.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2083"
         },
@@ -1076,6 +1093,26 @@
     }
   },
   "libraries": {
+    "Plugin.AudioRecorder/1.1.0": {
+      "sha512": "qa8tAuqWeIKfnFLVKhGgaHhbtw7T2Ec/5smgJstyatQ97uViUIqAVTpzdyij11VOovxTGXO4xBBkYanJmzv21g==",
+      "type": "package",
+      "path": "plugin.audiorecorder/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid81/Plugin.AudioRecorder.dll",
+        "lib/monoandroid81/Plugin.AudioRecorder.pdb",
+        "lib/netcore50/Plugin.AudioRecorder.dll",
+        "lib/netcore50/Plugin.AudioRecorder.pdb",
+        "lib/netstandard2.0/Plugin.AudioRecorder.dll",
+        "lib/netstandard2.0/Plugin.AudioRecorder.pdb",
+        "lib/portable45-net45+win8+wpa81/Plugin.AudioRecorder.dll",
+        "lib/xamarinios10/Plugin.AudioRecorder.dll",
+        "lib/xamarinios10/Plugin.AudioRecorder.pdb",
+        "plugin.audiorecorder.1.1.0.nupkg.sha512",
+        "plugin.audiorecorder.nuspec"
+      ]
+    },
     "System.Numerics.Vectors/4.5.0": {
       "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
@@ -2286,6 +2323,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
       "EssentialsTutorial >= 1.0.0",
+      "Plugin.AudioRecorder >= 1.1.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2083"
     ]
@@ -2332,6 +2370,10 @@
     "frameworks": {
       "monoandroid11.0": {
         "dependencies": {
+          "Plugin.AudioRecorder": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"

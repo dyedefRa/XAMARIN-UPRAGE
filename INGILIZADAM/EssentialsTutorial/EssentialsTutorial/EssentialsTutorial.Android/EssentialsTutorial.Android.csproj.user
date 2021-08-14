@@ -4,5 +4,6 @@
     <SelectedDevice>myphonekitkat</SelectedDevice>
     <ActiveDebugProfile>myphonekitkat</ActiveDebugProfile>
     <DefaultDevice>myphonekitkat</DefaultDevice>
+    <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
