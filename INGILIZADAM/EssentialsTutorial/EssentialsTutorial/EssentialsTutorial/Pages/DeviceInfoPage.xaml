@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EssentialsTutorial.Pages.DeviceInfoPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Device Info Page" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Label x:Name="DeviceType" Text="" FontSize="Title"  Padding="30,10,30,10"></Label>
+            <Label x:Name="Model" Text="" FontSize="Title"  Padding="30,10,30,10"></Label>
+            <Label x:Name="Manufacturer" Text="" FontSize="Title"  Padding="30,10,30,10"></Label>
+            <Label x:Name="Name"  Text="" FontSize="Title"  Padding="30,10,30,10"></Label>
+            <Label x:Name="Version" Text="" FontSize="Title"  Padding="30,10,30,10"></Label>
+            <Label x:Name="Platform" Text="" FontSize="Title"  Padding="30,10,30,10"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

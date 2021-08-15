@@ -15,3 +15,6 @@ D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\MapPage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\AudioPage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\BatterySamplePage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\DeviceInfoPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\TextSpeechPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\AppInfoPage.xaml.g.cs

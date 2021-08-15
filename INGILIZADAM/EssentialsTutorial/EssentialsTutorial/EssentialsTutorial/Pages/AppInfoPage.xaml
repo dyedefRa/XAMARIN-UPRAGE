@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EssentialsTutorial.Pages.AppInfoPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Audio Sample" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+
+            <Label x:Name="txtAppName" Text="" Padding="30,10,30,10"></Label>
+            <Label x:Name="txtPackageName" Text="" Padding="30,10,30,10"></Label>
+            <Label x:Name="txtVersion" Text="" Padding="30,10,30,10"></Label>
+            <Label x:Name="txtBuild" Text="" Padding="30,10,30,10"></Label>
+            <Button Text="Open Setting" Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

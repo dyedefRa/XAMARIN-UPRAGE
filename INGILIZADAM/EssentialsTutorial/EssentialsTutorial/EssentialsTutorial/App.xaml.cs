@@ -11,7 +11,7 @@ namespace EssentialsTutorial
         {
             InitializeComponent();
 
-            MainPage = new BatterySamplePage();
+            MainPage = new AppInfoPage();
         }
 
         protected override void OnStart()
