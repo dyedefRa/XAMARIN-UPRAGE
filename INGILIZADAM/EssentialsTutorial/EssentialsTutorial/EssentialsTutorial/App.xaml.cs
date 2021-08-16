@@ -11,7 +11,7 @@ namespace EssentialsTutorial
         {
             InitializeComponent();
 
-            MainPage = new AppInfoPage();
+            MainPage = new DeviceDisplayPage();
         }
 
         protected override void OnStart()

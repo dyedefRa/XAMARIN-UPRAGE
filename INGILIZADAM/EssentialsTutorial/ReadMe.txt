@@ -7,3 +7,13 @@ ALLOW MODIFY_AUDIO_SETTINGS & RECORD_AUDIO
 ----------------------------------------------------
 3 BatterySamplePage >
 ALLOW BATTERY_STATS
+
+
+------------------------------
+Preferences
+Kullanýcý se.imlerini vs gibi deðerleri tutar.
+Key value seþklinde çalýþýr
+
+---------------
+DeviceDisplay  telefon çevrildiðinde yakalýyoruz. Event verebýlýyoruz.
+---------------
