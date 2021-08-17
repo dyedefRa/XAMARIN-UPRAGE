@@ -11,7 +11,7 @@ namespace EssentialsTutorial
         {
             InitializeComponent();
 
-            MainPage = new DeviceDisplayPage();
+            MainPage = new ShakeMovementPage();
         }
 
         protected override void OnStart()
