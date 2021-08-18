@@ -2,7 +2,6 @@ D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\EssentialsTutorial.dll
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\ref\EssentialsTutorial.dll
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\bin\Debug\netstandard2.0\EssentialsTutorial.pdb
-D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.csproj.AssemblyReference.cache
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.AssemblyInfoInputs.cache
@@ -22,3 +21,5 @@ D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\DeviceDisplayPage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\CheckConnectPage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\ShakeMovementPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\ScreenShotSamplePage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\ContactsSamplePage.xaml.g.cs

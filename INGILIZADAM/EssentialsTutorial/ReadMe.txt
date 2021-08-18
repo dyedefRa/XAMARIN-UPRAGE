@@ -17,7 +17,10 @@ DeviceDisplay  telefon çevrildiðinde yakalýyoruz. Event verebýlýyoruz.
 CheckConnectPage>  (Ýnternet var mý yok mu ? deðiþtiðinde ne olsun.)
 ALLOW ACCESS_NETWORK_STATE
 ----------------------------------------------------
-ShakeMovementPage
+ShakeMovementPage>
 Telefonun konumunu x y z ye göre verir duruþunu görüþünü vs.. yakalayabýlýrsýn.
 https://www.youtube.com/watch?v=6ZAom6csHWw&list=PLfbOp004UaYWUR5MC_eck7ldVWkGY9lea&index=11&ab_channel=GeraldVersluis
 ----------------------------------------------------
+ContactsSamplePage >
+Rehbere ulaþma iþlemi. Bununla seçilen kiþinin telefonuna ulaþýlabýlýyor.
+ALLOW READ_CONTACTS

@@ -11,7 +11,7 @@ namespace EssentialsTutorial
         {
             InitializeComponent();
 
-            MainPage = new ShakeMovementPage();
+            MainPage = new ContactsSamplePage();
         }
 
         protected override void OnStart()
