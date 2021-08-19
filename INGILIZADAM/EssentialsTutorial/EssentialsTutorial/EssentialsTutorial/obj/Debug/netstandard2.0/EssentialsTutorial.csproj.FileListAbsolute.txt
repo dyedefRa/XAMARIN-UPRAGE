@@ -23,3 +23,7 @@ D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\ShakeMovementPage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\ScreenShotSamplePage.xaml.g.cs
 D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\ContactsSamplePage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\EssentialsTutorial.csproj.AssemblyReference.cache
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\MapPages\GeocodingPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\MapPages\GeoLocationPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\EssentialsTutorial\EssentialsTutorial\EssentialsTutorial\obj\Debug\netstandard2.0\Pages\PickImagesAndPDFPage.xaml.g.cs

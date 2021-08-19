@@ -24,3 +24,13 @@ https://www.youtube.com/watch?v=6ZAom6csHWw&list=PLfbOp004UaYWUR5MC_eck7ldVWkGY9
 ContactsSamplePage >
 Rehbere ulaþma iþlemi. Bununla seçilen kiþinin telefonuna ulaþýlabýlýyor.
 ALLOW READ_CONTACTS
+----------------------------------------------------
+GeocodingPage
+Ýsme göre lat lang , lat lang a göre isim posta kodu vs vs gibi bilgilere eriþebiliyoruz.
+----------------------------------------------------
+GeoLocationPage
+ALLOW ACCESS_FINE_LOCATION  ACCESS_COARSE_LOCATION
+Burada konumu buluyoruz . Sureklý konum istegi attýk
+---------------------------------------------------
+PickImagesAndPDFPage
+ALLOW READ_EXTERNAL_STORAGE WRITE_EXTERNAL_STORAGE

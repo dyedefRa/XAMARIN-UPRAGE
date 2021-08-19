@@ -1,4 +1,5 @@
 ﻿using EssentialsTutorial.Pages;
+using EssentialsTutorial.Pages.MapPages;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,7 +12,7 @@ namespace EssentialsTutorial
         {
             InitializeComponent();
 
-            MainPage = new ContactsSamplePage();
+            MainPage = new PickImagesAndPDFPage();
         }
 
         protected override void OnStart()
