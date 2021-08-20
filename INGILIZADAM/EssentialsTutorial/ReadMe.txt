@@ -11,11 +11,12 @@ ALLOW BATTERY_STATS
 Preferences
 Kullanýcý se.imlerini vs gibi deðerleri tutar.
 Key value seþklinde çalýþýr
----------------
+----------------------------------------------------
 DeviceDisplay  telefon çevrildiðinde yakalýyoruz. Event verebýlýyoruz.
 ----------------------------------------------------
 CheckConnectPage>  (Ýnternet var mý yok mu ? deðiþtiðinde ne olsun.)
 ALLOW ACCESS_NETWORK_STATE
+
 ----------------------------------------------------
 ShakeMovementPage>
 Telefonun konumunu x y z ye göre verir duruþunu görüþünü vs.. yakalayabýlýrsýn.
