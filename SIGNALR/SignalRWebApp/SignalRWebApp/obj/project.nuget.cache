@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GoFuHWsrV7XVak0l3oMgnMwago1FVg5qK7Tv1sEuyW7lQsNO6NN2HI7Bw6avl2CdNb3BpQODACvv3t2KMlBZ0w==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\SIGNALR\\SignalRWebApp\\SignalRWebApp\\SignalRWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.2\\microsoft.aspnet.signalr.2.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
