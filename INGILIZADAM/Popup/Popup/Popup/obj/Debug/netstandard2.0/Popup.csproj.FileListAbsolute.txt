@@ -1,0 +1,14 @@
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\bin\Debug\netstandard2.0\Popup.deps.json
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\bin\Debug\netstandard2.0\Popup.dll
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\bin\Debug\netstandard2.0\ref\Popup.dll
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\bin\Debug\netstandard2.0\Popup.pdb
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\MyPopup.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.AssemblyInfoInputs.cache
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.AssemblyInfo.cs
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.csproj.CoreCompileInputs.cache
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.dll
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\ref\Popup.dll
+D:\PROJECTS\INGILIZADAM\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.pdb

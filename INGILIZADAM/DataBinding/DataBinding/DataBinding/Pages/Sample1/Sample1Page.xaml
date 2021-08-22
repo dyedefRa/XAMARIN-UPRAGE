@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DataBinding.Pages.Sample1.Sample1Page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Welcome to Binding Trick!"
+                       HorizontalTextAlignment="Center"
+                       TextColor="White"
+                       FontSize="36"/>
+            </Frame>
+            <Label Text="{Binding ImageUrl, TargetNullValue='No Image'}"></Label>
+            <Image Source="{Binding ImageUrl, TargetNullValue='https://www.kindpng.com/picc/m/24-248253_user-profile-default-image-png-clipart-png-download.png'}"></Image>
+            <Label Text="{Binding Description}" FontSize="Title" Padding="30,10,30,10" HorizontalTextAlignment="Center"/>
+            <Label Text="{Binding MyNumber}" FontSize="16" Padding="30,0,30,0"></Label>
+            <Entry Text="{Binding MyNumber,Mode=OneWayToSource}"></Entry>
+            <!--<Entry Text="{Binding MyNumber,Mode=OneWayToSource}"></Entry>-->
+            <Label Text="{Binding MyDouble, StringFormat='{0:0.00}'}" Padding="30,10,30,10"></Label>
+          
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

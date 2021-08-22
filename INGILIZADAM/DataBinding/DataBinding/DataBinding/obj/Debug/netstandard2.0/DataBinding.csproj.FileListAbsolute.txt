@@ -1,0 +1,15 @@
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.deps.json
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.dll
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\ref\DataBinding.dll
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.pdb
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csproj.AssemblyReference.cache
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfoInputs.cache
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfo.cs
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csproj.CoreCompileInputs.cache
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.dll
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\ref\DataBinding.dll
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.pdb
+D:\PROJECTS\INGILIZADAM\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\Pages\Sample1\Sample1Page.xaml.g.cs
