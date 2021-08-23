@@ -1,0 +1,15 @@
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\bin\Debug\netstandard2.0\BertBoschTutorials.deps.json
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\bin\Debug\netstandard2.0\BertBoschTutorials.dll
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\bin\Debug\netstandard2.0\ref\BertBoschTutorials.dll
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\bin\Debug\netstandard2.0\BertBoschTutorials.pdb
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\BertBoschTutorials.csproj.AssemblyReference.cache
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\BertBoschTutorials.AssemblyInfoInputs.cache
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\BertBoschTutorials.AssemblyInfo.cs
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\BertBoschTutorials.csproj.CoreCompileInputs.cache
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\BertBoschTutorials.dll
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\ref\BertBoschTutorials.dll
+D:\PROJECTS\BertBoschTutorials\BertBoschTutorials\BertBoschTutorials\obj\Debug\netstandard2.0\BertBoschTutorials.pdb

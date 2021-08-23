@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BertBoschTutorials.Views.LoginPage">
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout">
+
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="LoginIcon" Source="LoginIcon.png" Margin="0,80,0,0"></Image>
+            </StackLayout>
+            
+            <StackLayout x:Name="LoginEntiesStack" VerticalOptions="StartAndExpand">
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
+                        <OnIdiom.Tablet>140,150,140,0</OnIdiom.Tablet>
+                    </OnIdiom>
+                </StackLayout.Padding>
+
+                <ActivityIndicator x:Name="activitySpinner" Color="Red" IsRunning="True"></ActivityIndicator>
+                <Label x:Name="lblUserName" Text="Username"/>
+                <Entry x:Name="txtUserName" Placeholder="Username"></Entry>
+                <Label x:Name="lblPassword" Text="Password"></Label>
+                <Entry x:Name="txtPassword" Placeholder="Password"></Entry>
+                <Button x:Name="btnSignIn" Text="Sign In" Clicked="btnSignIn_Clicked"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
