@@ -21,6 +21,7 @@ namespace UberApp.Helper
         {
             FirebaseDatabase database;
             var app = FirebaseApp.InitializeApp(Application.Context);
+          
             if (app == null)
             {
                 var options = new FirebaseOptions.Builder()
@@ -33,7 +34,6 @@ namespace UberApp.Helper
                 app = FirebaseApp.InitializeApp(Application.Context, options);
             }
             database = FirebaseDatabase.GetInstance(app);
-
 
 
             DatabaseReference dbref = database.GetReference("UserSupport");
