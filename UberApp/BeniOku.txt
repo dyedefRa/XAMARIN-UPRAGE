@@ -7,4 +7,6 @@ Refractored.Controls.CircleImageView indirdik CircleImage için
 13
 https://www.youtube.com/watch?v=6AT01LpPBMs&list=PLpXus3JSQYPAGM2yGak01xZD7tuKXB3gQ&index=13&ab_channel=Ufinix
 
-Xamarin.Firebase.Auth ekledik.
+Xamarin.Firebase.Auth ekledik. 
+
+Xamarin.Firebase.Auth ekledik. 
